@@ -4,3 +4,9 @@ div {
   background-color: blue;
   margin: 20px auto;
 }
+h1 {
+  text-align: center;
+  line-height: 300px;
+  color: white;
+  font-family: arial;
+}
